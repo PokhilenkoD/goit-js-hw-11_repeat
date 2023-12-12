@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://PokhilenkoD/parcel-project-template",
+  "homepage": "https://PokhilenkoD.github.io/goit-js-hw-11_repeat/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11_repeat.git/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11_repeat/"
   },
   "repository": {
     "type": "git",
